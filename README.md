@@ -1,4 +1,4 @@
 # GeoQuiz
 Estudo Kotlin
 
-![tela1](/images/tela.jpg)
+![tela](/tela.jpg)
